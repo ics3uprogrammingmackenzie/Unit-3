@@ -1,0 +1,19 @@
+C:\Users\Mackenzie\source\repos\PizzaOrder\PizzaOrder\obj\Debug\PizzaOrder.csprojAssemblyReference.cache
+C:\Users\Mackenzie\source\repos\PizzaOrder\PizzaOrder\obj\Debug\PizzaOrder.PizzaOrderMackenzieBrownPlourdefrm.resources
+C:\Users\Mackenzie\source\repos\PizzaOrder\PizzaOrder\obj\Debug\PizzaOrder.Properties.Resources.resources
+C:\Users\Mackenzie\source\repos\PizzaOrder\PizzaOrder\obj\Debug\PizzaOrder.csproj.GenerateResource.cache
+C:\Users\Mackenzie\source\repos\PizzaOrder\PizzaOrder\obj\Debug\PizzaOrder.csproj.CoreCompileInputs.cache
+C:\Users\Mackenzie\source\repos\PizzaOrder\PizzaOrder\bin\Debug\PizzaOrder.exe.config
+C:\Users\Mackenzie\source\repos\PizzaOrder\PizzaOrder\bin\Debug\PizzaOrder.exe
+C:\Users\Mackenzie\source\repos\PizzaOrder\PizzaOrder\bin\Debug\PizzaOrder.pdb
+C:\Users\Mackenzie\source\repos\PizzaOrder\PizzaOrder\obj\Debug\PizzaOrder.exe
+C:\Users\Mackenzie\source\repos\PizzaOrder\PizzaOrder\obj\Debug\PizzaOrder.pdb
+N:\a\Sem2-Winter2019\ICS3U Programming\B-P, Mackenzie\Unit 3 (Decisions)\PizzaOrder\PizzaOrder\bin\Debug\PizzaOrder.exe.config
+N:\a\Sem2-Winter2019\ICS3U Programming\B-P, Mackenzie\Unit 3 (Decisions)\PizzaOrder\PizzaOrder\bin\Debug\PizzaOrder.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\B-P, Mackenzie\Unit 3 (Decisions)\PizzaOrder\PizzaOrder\bin\Debug\PizzaOrder.pdb
+N:\a\Sem2-Winter2019\ICS3U Programming\B-P, Mackenzie\Unit 3 (Decisions)\PizzaOrder\PizzaOrder\obj\Debug\PizzaOrder.csprojResolveAssemblyReference.cache
+N:\a\Sem2-Winter2019\ICS3U Programming\B-P, Mackenzie\Unit 3 (Decisions)\PizzaOrder\PizzaOrder\obj\Debug\PizzaOrder.PizzaOrderMackenzieBrownPlourdefrm.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\B-P, Mackenzie\Unit 3 (Decisions)\PizzaOrder\PizzaOrder\obj\Debug\PizzaOrder.Properties.Resources.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\B-P, Mackenzie\Unit 3 (Decisions)\PizzaOrder\PizzaOrder\obj\Debug\PizzaOrder.csproj.GenerateResource.Cache
+N:\a\Sem2-Winter2019\ICS3U Programming\B-P, Mackenzie\Unit 3 (Decisions)\PizzaOrder\PizzaOrder\obj\Debug\PizzaOrder.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\B-P, Mackenzie\Unit 3 (Decisions)\PizzaOrder\PizzaOrder\obj\Debug\PizzaOrder.pdb
